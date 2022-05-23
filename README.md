@@ -1,6 +1,8 @@
 # Need4Stek
 Epitech Project, Need4Stek
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=twisterrr.aia_n4s_2019&left_color=purple&right_color=grey)
+
 It consists to create an IA that control a car for a race circuit.
 
 This project is only functionnal on the software CoppeliaSim because we are using an API to communicate between our program and the software. So if you want to test it, you should download the **CoppeliaSim**.
